@@ -103,7 +103,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">{{ $kegiatan->title }}</h5>
                                 <p class="card-text">{{ $kegiatan->content }}</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <a href="#" class="btn btn-primary">AdminSIKMMSukorejo</a>
                             </div>
                         </div>
                     </div>
